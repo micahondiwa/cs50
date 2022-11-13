@@ -2,6 +2,12 @@
 #include<stdio.h>
 #include<string.h>
 
+/**
+ * main - Prints out the length of a string entered by a user.
+ *
+ * Return: length of string.
+ */
+
 int main(void)
 {
     string name = get_string("Name: ");
