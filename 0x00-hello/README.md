@@ -22,3 +22,4 @@
 |[7-hi.c](7-hi.c)|Alternative to [3-hi.c](3-hi.c), and implementing the NUL character|
 |[8-hi_by.c](8-hi_by.c)|printing out HI!, and BYE!|
 |[9-string_length.c](9-string_length.c)| Prints out the length of a string entered by a user.|
+|[10-cl_args.c](10-cl_args.c)| Priting an input from the command line without prompting the user to enter an input.|
