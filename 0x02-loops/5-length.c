@@ -2,7 +2,7 @@
 #include<cs50.h>
 
 /**
-* main: rints out the length of a name/variable entered by a user
+* main: Prints out the length of a name/variable entered by a user
 * 
 * Return: no return.
 */
