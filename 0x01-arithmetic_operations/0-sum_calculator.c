@@ -1,6 +1,11 @@
 #include<cs50.h>
 #include<stdio.h>
 
+/**
+* A claculator for getting the sum of 2 integers
+*
+* Return: no return value.
+*/
 
  int main(void)
  {
