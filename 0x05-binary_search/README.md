@@ -14,3 +14,4 @@
 | ---  | --- |
 |[0-search_three.c](0-search_three.c)|A ```C``` binary search algorithm for searching the number 3 in the list.|
 |[1-tila.c](1-tila.c)|A ```C``` binary search that checks whether the name Tila is in the list.|
+|[2-phone_number.c](2-phone_number.c)|Implementing an algoirthm that searches and displys Micah's phone number from the phonebook.|
