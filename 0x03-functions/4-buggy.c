@@ -1,6 +1,11 @@
 #include<cs50.h>
 #include<stdio.h>
 
+/**
+* get_negative_int: Checks whether an integer is a negative value.
+*
+* Return: no return.
+*/
 int get_negative_int(void);
 
 int main(void)
