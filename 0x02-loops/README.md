@@ -12,4 +12,5 @@
 
 | File | Description |
 | ---  | --- |
-|[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using the while loop.|
+|[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using the ```while``` loop.|
+|[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using the ```for``` loop.|
