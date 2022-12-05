@@ -2,6 +2,12 @@
 #include<cs50.h>
 #include<string.h>
 
+/**
+* main: checks whether the name Tila is in the list
+*
+* Return: no return.
+*/
+
 int main(void)
 {
     string names [] = {"Micah", "Oketch", "Kondiwa", "Tila", "Sibuor", "Ratego"};
