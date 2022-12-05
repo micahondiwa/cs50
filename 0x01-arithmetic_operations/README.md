@@ -13,5 +13,5 @@
 
 | File | Description |
 | ---  | --- |
-|[0-sum_calculator.c](0-sum_calculator.c)|A claculator for getting the sum of 2 integers.|
+|[0-sum_calculator.c](0-sum_calculator.c)|A calculator for getting the sum of 2 integers.|
 
