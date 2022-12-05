@@ -1,6 +1,12 @@
 #include<stdio.h>
 #include<cs50.h>
 
+/**
+*draw: draws a brick of n "#"s .
+*
+*Return: no return.
+*/
+
 void draw(int n);
 
 int main(void)
