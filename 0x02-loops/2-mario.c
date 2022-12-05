@@ -4,8 +4,7 @@
 * main: mario for printing "?".
 * 
 * Retyurn: no return.
-* 
-/
+*/
 
 int main(void)
 {
