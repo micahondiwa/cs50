@@ -16,4 +16,5 @@
 |[1-meow.c](1-meow.c)| Prints 'Meow' a given number of times using ```for``` loop.|
 |[2-mario.c](2-mario.c)| Mario for printing ```?```.|
 |[3-mario.c](2-mario.c)| An alternative to [2-mario.c](2-mario.c) that prints ```?``` ```n``` times, where ```n``` is entered by the user.
-|[4-brick.c](4-brick.c)|printing a brick using ```n``` number of ```#```s.
+|[4-brick.c](4-brick.c)|printing a brick using ```n``` number of ```#```s.|
+|[5-length.c](5-length.c)|Prints out the length of a name/variable entered by a user.|
