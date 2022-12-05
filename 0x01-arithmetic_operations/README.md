@@ -23,3 +23,5 @@
 |[7-average_scores.c](7-average-scores.c)|C program that prints the average of 3 scores.|
 |[8-average_scores.c](8-average-scores.c)| Alternative to [7-average_scores.c](7-average-scores.c)|
 |[9-average_scores.c](9-average-scores.c)| Alternative to [7-average_scores.c](7-average-scores.c)|
+|[10-average_scores.c](10-average-scores.c)| Alternative to [7-average_scores.c](7-average-scores.c)|
+|[11-average_scores.c](11-average-scores.c)| Alternative to [7-average_scores.c](7-average-scores.c)|
