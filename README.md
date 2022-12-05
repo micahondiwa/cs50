@@ -19,7 +19,7 @@
 |[0x04-floating_point_imprecission](0x04-floating_point_imprecission)|Implements the floating point imprecission concept in C|
 |[0x05-binary_search](0x05-binary_search)|Implements the binary search in C|
 |[0x06-data_structures](0x06-data_structures)|Implementing data structures in C including linked lists and Arrays|
-|[0x07-address](0x07-address)|Algorithms to implement memory address in C|
+|[0x07-address](0x07-adress)|Algorithms to implement memory address in C|
 |[0x08-pointer_arithmetic](0x08-pointer_arithmetic)|Algorithms to implement pointer arithmetics in C|
 |[0x09-dynamic_memory_allocations](0x09-dynamic_memory_allocation)|Algorithms implememts memeory management and allocation in C|
 
