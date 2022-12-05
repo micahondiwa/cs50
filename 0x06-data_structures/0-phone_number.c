@@ -2,6 +2,12 @@
 #include<cs50.h>
 #include<string.h>
 
+/**
+* main: building a phone book using data structures.
+*
+* Return: no return.
+*/
+
 typedef struct
 {
     string name;
