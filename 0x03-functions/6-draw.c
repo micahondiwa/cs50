@@ -2,7 +2,7 @@
 #include<cs50.h>
 
 /**
-*draw: draws a brick of n "#"s .
+*draw: draws triangle with #.
 *
 *Return: no return.
 */
