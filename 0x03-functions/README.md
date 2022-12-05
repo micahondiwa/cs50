@@ -18,3 +18,7 @@
 |[2-sale_price.c](2-sale_price.c)| A ```C``` program that promts the user to enter the regular sales price, and calculates the actual sales price after the discount.|
 |[3-sale_price.c](3-sale_price.c)| A ```C``` program that promts the user to enter the regular sales price + percentage discount, and calculates the actual sales price after the discount.|
 |[4-buggy.c](4-buggy.c)|A ```C``` programChecks whether an integer is a negative value.|
+|[5-length.c](5-length.c)|
+|[6-draw.c](6-draw.c)|A ```C``` program that draws a brick of n "#"s.|
+|[7-draw.c](7-draw.c)|A ```C``` program that draws a brick of n "#"s.|
+
