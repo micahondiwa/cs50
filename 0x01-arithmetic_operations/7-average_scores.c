@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+/**
+* main: The program prints the average of 3 scores
+*
+* Return: no return.
+*/
+
 int main(void)
 {
     int score1 = 72;
