@@ -1,6 +1,13 @@
 #include<stdio.h>
 #include<cs50.h>
 
+/**
+* draw: draws a triangle with #
+*
+*@Height: the height of the triangle.
+*Return: no return.
+*/
+
 void draw(int n);
 
 int main(void)
