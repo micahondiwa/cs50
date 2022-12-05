@@ -2,6 +2,12 @@
 #include<stdio.h>
 #include<string.h>
 
+/**
+* main: converts a letter to uppercase
+*
+* Return: no return.
+*/
+
 int main(void)
 {
     string s = get_string("Befeore: ");
@@ -18,6 +24,7 @@ int main(void)
         {
             printf("%c", s[i]);
         }
-        printf("");
+        
+        printf("\n");
     }
 }
