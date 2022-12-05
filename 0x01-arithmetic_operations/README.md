@@ -18,7 +18,7 @@
 |[2-points_calc.c](2-points.c)|Alternative to [1-points_calculator.c](1-points_calculator.c).|
 |[3-odd_even.c](3-odd_even.c)| A C program testing for even and odd numbers.|
 |[4-agree.c](4-agree.c)|Prompts user to agree or disgaree.|
-|[5-agree.c](5-agree.c)|[4-agree.c](4-agree.c)|
+|[5-agree.c](5-agree.c)|Alternative of [4-agree.c](4-agree.c)|
 
 
 
