@@ -12,10 +12,10 @@
 
 | File | Description |
 | ---  | --- |
-|[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using the ```while``` loop.|
-|[1-meow.c](1-meow.c)| Prints 'Meow' a given number of times using ```for``` loop.|
+|[0-meow.c](0-meow.c)|A C program that prints 'Meow' a given number of times using the ```while``` loop.|
+|[1-meow.c](1-meow.c)|A C program that prints 'Meow' a given number of times using ```for``` loop.|
 |[2-mario.c](2-mario.c)| Mario for printing ```?```.|
 |[3-mario.c](2-mario.c)| An alternative to [2-mario.c](2-mario.c) that prints ```?``` ```n``` times, where ```n``` is entered by the user.
-|[4-brick.c](4-brick.c)|printing a brick using ```n``` number of ```#```s.|
-|[5-length.c](5-length.c)|Prints out the length of a name/variable entered by a user.|
-|[6-input_output.c](6-input_output.c)|Printing an output same as an input.|
+|[4-brick.c](4-brick.c)|A C program printing a brick using ```n``` number of ```#```s.|
+|[5-length.c](5-length.c)|A C program that Prints out the length of a name/variable entered by a user.|
+|[6-input_output.c](6-input_output.c)|A C program for printing an output same as an input.|
