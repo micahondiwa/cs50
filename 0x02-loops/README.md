@@ -15,3 +15,4 @@
 |[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using the ```while``` loop.|
 |[1-meow.c](1-meow.c)| Prints 'Meow' a given number of times using ```for``` loop.|
 |[2-mario.c](2-mario.c)| Mario for printing ```?```.|
+|[3-mario.c](2-mario.c)| An alternative to [2-mario.c](2-mario.c) that prints ```?``` ```n``` times, where ```n``` is entered by the user.
