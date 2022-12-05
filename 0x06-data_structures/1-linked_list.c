@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+* main: Implenting a linked list.
+*
+* Return: no return.
+*/
+
 typedef struct node
 {
     int number;
