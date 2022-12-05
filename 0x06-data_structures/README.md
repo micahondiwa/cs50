@@ -13,3 +13,4 @@
 | File | Description |
 | ---  | --- |
 |[0-phone_number.c](0-phone_number.c)|Building a phone book using data structures.|
+|[1-linked_list.c](1-linked_list.c)|Implenting a linked list in ```C```.|
