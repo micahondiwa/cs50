@@ -24,3 +24,4 @@
 |[9-upper_case.c](9-upper_case.c)| A ```C``` programm that converts a letter to uppercase.|
 |[10-upper_case.c](10-upper_case.c)| A ```C``` programm that converts a letter to uppercase.|
 |[11-cl_arg.c](11-cl_arg.c)|A ```C``` program that prints ```Hello, World``` using if, else condition.
+|[12-exit_status.c](12-exit_status.c)| A ```C``` program that prints 'hello, world' if user types on the command-line, and 'Missing command-line argument' if no argument is entered.|
