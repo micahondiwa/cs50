@@ -1,6 +1,13 @@
 #include<cs50.h>
 #include<stdio.h>
 
+/**
+* main: prints "?" n times, where n is entered by the user. 
+*
+* @n: the number of times to print "?".
+* Return: no return.
+*/
+
 int main(void)
 {
     int n;
