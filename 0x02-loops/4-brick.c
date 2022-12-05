@@ -1,6 +1,13 @@
 #include<cs50.h>
 #include<stdio.h>
 
+/**
+* main: Printing a brick of #.
+*
+* @n: the number of times to print # to produce a brick.
+* Return: no return.
+*/
+
 int main(void)
 {
     int n;
