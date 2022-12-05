@@ -12,3 +12,4 @@
 
 | File | Description |
 | ---  | --- |
+|[0-search_three.c](0-search_three.c)|A ```C``` binary search algorithm for searching the number 3 in the list.|
