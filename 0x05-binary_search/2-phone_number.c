@@ -2,6 +2,12 @@
 #include<cs50.h>
 #include<string.h>
 
+/**
+* main: searches and displys Micah's phone number from the phonebook.
+* 
+* Return: no return.
+*/
+
 int main(void)
 {
     string names [] = {"Micah", "Kondiwa"};
