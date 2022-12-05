@@ -15,5 +15,6 @@
 | ---  | --- |
 |[0-sum_calculator.c](0-sum_calculator.c)|A calculator for getting the sum of 2 integers.|
 |[1-points_calculator.c](1-points_calculator.c)|The program promts the user to enter the number of points and compares them with 2.|
+|[2-points_calc.c](2-points.c)|Alternative to [1-points_calculator.c](1-points_calculator.c).|
 
 
