@@ -15,4 +15,4 @@
 
 | File | Description |
 | ---  | --- |
-|[0-pennies_conversion](0-pennies_conversion)|A ```C``` program that converts dollars to pennies.|
+|[0-pennies_conversion.c](0-pennies_conversion.c)|A ```C``` program that converts dollars to pennies.|
