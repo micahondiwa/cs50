@@ -13,4 +13,5 @@
 | File | Description |
 | ---  | --- |
 |[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using the ```while``` loop.|
-|[0-meow.c](0-meow.c)| Prints 'Meow' a given number of times using ```for``` loop.|
+|[1-meow.c](1-meow.c)| Prints 'Meow' a given number of times using ```for``` loop.|
+|[2-mario.c](2-mario.c)| Mario for printing ```?```.|
