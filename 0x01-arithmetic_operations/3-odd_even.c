@@ -13,10 +13,10 @@ int main(void)
 
     if (n % 2 == 0)
     {
-        printf("%i is even.\n",n);
+        printf("%i is even.\n", n);
     }
     else
     {
-        printf("%i is odd.\n",n);
+        printf("%i is odd.\n", n);
     }
 }
