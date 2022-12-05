@@ -20,6 +20,4 @@
 |[4-agree.c](4-agree.c)|Prompts user to agree or disgaree.|
 |[5-agree.c](5-agree.c)|Alternative of [4-agree.c](4-agree.c)|
 |[6-sale_price.c](6-sale_price.c)|Promts the user to enter the regular sales price, and calculates the actual sales price after the discount.|
-
-
-
+|[7-average_scores.c](7-average-scores.c)|C program that prints the average of 3 scores.|
