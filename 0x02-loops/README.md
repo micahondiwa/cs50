@@ -19,3 +19,4 @@
 |[4-brick.c](4-brick.c)|A C program printing a brick using ```n``` number of ```#```s.|
 |[5-length.c](5-length.c)|A C program that Prints out the length of a name/variable entered by a user.|
 |[6-input_output.c](6-input_output.c)|A C program for printing an output same as an input.|
+|[7-input_output.c](7-input_output.c)|A C program for printing an output same as an input.|
