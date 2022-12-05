@@ -1,15 +1,21 @@
 #include <stdio.h>
 #include <cs50.h>
 
+/**
+* main: prints the average of 3 scores.
+*
+* Return: no return.
+*/
+    
 int main(void)
 
 {
     int scores[3];
-    for (int i=0; i<3;i++)
+    for (int i = 0; i < 3;i++)
     {
-        scores[i]= get_int("Score: ");
+        scores[i] = get_int("Score: ");
     }
     {
-        printf("Average: %f\n", (scores[0]+scores[1]+scores[2])/3.0);
+        printf("Average: %f\n", (scores[0] + scores[1] + scores[2]) / 3.0);
     }
 }
