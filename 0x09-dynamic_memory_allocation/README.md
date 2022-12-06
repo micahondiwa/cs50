@@ -18,3 +18,4 @@
 |[3-garbage.c](3-garbage.c)|A ```C``` that returns Garbage values.|
 |[4-swap.c](4-swap.c)|A ```C``` program that swaps the values of 2 integers using their memory locations.|
 |[5-int_user.c](5-int_user.c)| A ```C``` program that promts user to input an integer and prints the integer and its memory location. |
+|[6-string_malloc.c](6-string_malloc.c)|A ```C``` program printing string with malloc.|
