@@ -20,3 +20,4 @@
 |[5-int_user.c](5-int_user.c)| A ```C``` program that promts user to input an integer and prints the integer and its memory location. |
 |[6-string_malloc.c](6-string_malloc.c)|A ```C``` program printing string with malloc.|
 |[7-list.c](7-list.c)|A ```C``` printing a list of size 3.|
+|[8-list_malloc.c](8-list_malloc.c)| A ```C``` program that dnamically allocate an array of size 3.|
