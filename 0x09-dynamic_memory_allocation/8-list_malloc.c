@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+* main: Dynamically allocate an array of size 3
+*
+* Return: no return.
+*/
+
 int main(void)
 {
     //Dynamically allocate an array of size 3
