@@ -3,14 +3,20 @@
 #include <cs50.h>
 #include <string.h>
 
+/**
+* main: copies the characters of one string to the other.
+* 
+* Return: no return.
+*/
+
 int main(void)
 {
-    string s =get_string("s: ");
+    string s = get_string("s: ");
 
     string t = s;
 
-    t[0]=toupper(t[0]);
+    t[0] = toupper(t[0]);
 
-    printf("s: %s\n",s);
-    printf("t: %s\n",t);
+    printf("s: %s\n", s);
+    printf("t: %s\n", t);
 }
