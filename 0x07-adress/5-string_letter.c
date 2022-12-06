@@ -1,6 +1,12 @@
 #include<stdio.h>
 #include<cs50.h>
 
+/**
+* main: prints address of the string, and all letters of the string.
+* 
+* Return: no return.
+*/
+
 int main(void)
 {
     string S = "HI!";
