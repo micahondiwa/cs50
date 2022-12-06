@@ -17,3 +17,5 @@
 |[2-difference.c](2-difference.c)|A  ```C``` that prints both the integer and it's address.|
 |[3-letter_address.c](3-letter_address.c)| A ```C``` that prints the address of the fisrt leter in the string.|
 |[4-string_address.c](4-string_address.c)| A ```C``` programm that prints address of the string, and the first letter of the string.|
+|[5-string_letter.c](5-string_letter.c)|A ```C``` program that prints address of the string, and all letters of the string.|
+|[6-string_letter.c](6-string_letter.c)|A ```C``` program that prints address of the string, and all letters of the string.|
