@@ -12,3 +12,5 @@
 
 | File | Description |
 | ---  | --- |
+|[0-malloc.c](0-malloc.c)|A ```C``` program that getes a string, allocates a memory for it and change it to uppercase.|
+
