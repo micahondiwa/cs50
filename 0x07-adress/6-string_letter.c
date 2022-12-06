@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+/**
+* main: prints address of the string, and all letters of the string.
+*
+* Return: no return.
+*/
+
 int main(void)
 {
     char *S = "HI!";
