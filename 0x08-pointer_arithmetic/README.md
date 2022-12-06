@@ -14,4 +14,5 @@
 | ---  | --- |
 |[0-pointer.c](0-pointer.c)|using pointer arithmetics to print addresses of the charcters in the string.|
 |[1-pointer.c](1-pointer.c)|using pointer arithmetics to print addresses of the numbers in the list of numbers.|
-|[2-int_compare.c](2-int_compare.c)|A ```C``` program that uses pointers to comapre 2 integers and print s"Same" or "Difference".
+|[2-int_compare.c](2-int_compare.c)|A ```C``` program that uses pointers to comapre 2 integers and print ```Same``` or ```Difference```.
+|[3-compare_strings.c](3-compare_strings.c))|A ```C``` program that uses pointers to comapre 2 strings and print ```Same``` or ```Difference```.
