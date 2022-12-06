@@ -2,6 +2,12 @@
 #include<stdio.h>
 #include<string.h>
 
+/**
+* main: uses pointers to comapre 2 strings and print "Same" or "Difference".
+* 
+* Return: no return.
+*/
+
 int main (void)
 {
     char *t = get_string("t: ");
