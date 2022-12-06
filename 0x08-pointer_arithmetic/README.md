@@ -13,4 +13,5 @@
 | File | Description |
 | ---  | --- |
 |[0-pointer.c](0-pointer.c)|using pointer arithmetics to print addresses of the charcters in the string.|
-|[1-pointer.c](1-pointer.c)|using pointer arithmetics to print addresses of the numbers in the list of numbers.||
+|[1-pointer.c](1-pointer.c)|using pointer arithmetics to print addresses of the numbers in the list of numbers.|
+|[2-int_compare.c](2-int_compare.c)|A ```C``` program that uses pointers to comapre 2 integers and print s"Same" or "Difference".
