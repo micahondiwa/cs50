@@ -12,3 +12,5 @@
 
 | File | Description |
 | ---  | --- |
+|[0-pointer.c](0-pointer.c)|using pointer arithmetics to print addresses of the charcters in the string.|
+|[1-pointer.c](1-pointer.c)|using pointer arithmetics to print addresses of the numbers in the list of numbers.||
