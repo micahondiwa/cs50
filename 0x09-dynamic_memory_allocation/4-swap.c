@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 /**
-* swap: swaps the values of 2 integers.
+* swap: swaps the values of 2 integers using their memory locations.
 * @a: the first integer.
 * @b: the second integer.
 *
