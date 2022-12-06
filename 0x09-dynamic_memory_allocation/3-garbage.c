@@ -1,6 +1,12 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+/**
+* main: returns Garbage values
+*
+* Return: no return
+*/
+
 int main(void)
 {
     int scores [3];
