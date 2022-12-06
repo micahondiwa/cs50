@@ -15,3 +15,4 @@
 |[0-malloc.c](0-malloc.c)|A ```C``` program that getes a string, allocates a memory for it and change it to uppercase.|
 |[1-valgrind.c](1-valgrind.c)|A ```C``` program that allocates memory equal to the size of the integer.|
 |[2-free.c](2-free.c)|A ```C``` program that allocates memory equal to the size of the integer and frees the memory. |
+|[3-garbage.c](3-garbage.c)|A ```C``` that returns Garbage values.|
