@@ -1,5 +1,10 @@
 #include<stdio.h>
 
+/**
+* main: using pointer arithmetics to print addresses of the numbers in the list of numbers. 
+* 
+* Return: no return.
+*/
 int main(void)
 {
     int numbers[] = {3,4,5,67,7,0};
