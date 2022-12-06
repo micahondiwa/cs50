@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+/**
+* main: using pointer arithmetics to print addresses of the characters in the string. 
+* 
+* Return: no return.
+*/
+
 int main(void)
 {
     char *S = "HI!";
