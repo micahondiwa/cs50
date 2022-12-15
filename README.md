@@ -5,7 +5,7 @@
 ## Technologies
 - Files written in ```Visual Studio Code 1.73``` editor. 
 - C files compiled using ```gcc 9.4.0```.
-- C files wriiten according to the betty coding style. 
+- C files wriiten according to the betty coding style. Checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
 - Files tested on ```Windows 10``` using ```gcc```.
 
 ## Directories
